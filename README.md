@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&label=VISITAS+AL+SISTEMA" alt="Contador de visitas"/>
+<img src="https://komarev.com/ghpvc/?Aglp-ds=Aglp-ds&style=for-the-badge&color=7c3aed&label=VISITAS+AL+SISTEMA" alt="Contador de visitas"/>
 
 </div>
 

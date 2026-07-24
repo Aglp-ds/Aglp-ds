@@ -9,7 +9,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:050816,45:151B3B,100:7C3AED&text=ANGEL.exe&fontColor=FFFFFF&fontSize=48&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descSize=16"/>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Aglp-ds">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&repeat=true&width=760&height=55&lines=%3E+Inicializando+perfil+de+desarrollador...;%3E+Construyendo+APIs%2C+sistemas+y+experiencias+web;%3E+Transformando+ideas+en+software+funcional;%3E+Aprendiendo.+Creando.+Mejorando." alt="Typing SVG"/>
 </a>
 

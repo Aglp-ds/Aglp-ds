@@ -172,7 +172,7 @@ Prisma · PostgreSQL · Excel
 
 ### El axolote vigila cada contribución mientras la serpiente limpia el sistema.
 
-<img width="92%" src="https://raw.githubusercontent.com/Aglp-ds/Aglp-ds/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
+<img width="92%" src="https://raw.githubusercontent.com/Aglp-ds/Aglp-ds/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 
 </div>
 

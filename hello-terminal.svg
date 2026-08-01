@@ -1,0 +1,68 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, soy Angel — desarrollador de software</title>
+  <desc id="desc">Banner animado con apariencia de editor de codigo y mensajes rotativos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="40" y1="20" x2="1160" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B16"/>
+      <stop offset="0.55" stop-color="#0C1021"/>
+      <stop offset="1" stop-color="#070912"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="220" y1="82" x2="850" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A5F3FC"/>
+      <stop offset="0.5" stop-color="#06B6D4"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="lineClip"><rect class="typing-mask" x="90" y="297" width="0" height="34"/></clipPath>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" stroke="#06B6D4" stroke-opacity="0.07"/>
+    </pattern>
+    <style>
+      .orb { animation: breathe 4s ease-in-out infinite alternate; }
+      .cursor { animation: blink .75s steps(1,end) infinite; }
+      .typing-mask { animation: type 4.2s steps(48,end) infinite; }
+      .line { opacity: 0; animation: rotateLines 12.6s infinite; }
+      .line.two { animation-delay: 4.2s; }
+      .line.three { animation-delay: 8.4s; }
+      @keyframes breathe { from { opacity:.28; transform:scale(.96); transform-origin:center; } to { opacity:.62; transform:scale(1.04); transform-origin:center; } }
+      @keyframes blink { 0%,48% { opacity:1 } 49%,100% { opacity:0 } }
+      @keyframes type { 0% { width:0 } 12%,78% { width:960px } 92%,100% { width:0 } }
+      @keyframes rotateLines { 0%,2% { opacity:0 } 7%,28% { opacity:1 } 32%,100% { opacity:0 } }
+      @media (prefers-reduced-motion: reduce) { .orb,.cursor,.typing-mask,.line { animation:none } .typing-mask { width:960px } .line.one { opacity:1 } }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="388" rx="18" fill="url(#bg)" stroke="#242A3D" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="52" rx="18" fill="#111522"/>
+  <path d="M1 52H1199" stroke="#272D42"/>
+  <circle cx="28" cy="27" r="6" fill="#FF5F57"/><circle cx="49" cy="27" r="6" fill="#FEBC2E"/><circle cx="70" cy="27" r="6" fill="#28C840"/>
+  <text x="600" y="33" text-anchor="middle" fill="#7E879D" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">angel@github — profile.tsx</text>
+  <rect x="1" y="53" width="1198" height="336" rx="0" fill="url(#grid)"/>
+
+  <circle class="orb" cx="975" cy="205" r="112" fill="#0891B2" opacity=".35" filter="url(#glow)"/>
+  <circle class="orb" cx="1052" cy="154" r="56" fill="#0EA5E9" opacity=".26" filter="url(#glow)"/>
+
+  <text x="84" y="124" fill="#68718A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">01</text>
+  <text x="84" y="179" fill="#68718A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">02</text>
+  <text x="84" y="234" fill="#68718A" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">03</text>
+
+  <text x="130" y="126" fill="#6EE7B7" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22">const</text>
+  <text x="208" y="126" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22">developer =</text>
+  <text x="358" y="126" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22">"Angel"</text>
+  <text x="446" y="126" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22">;</text>
+
+  <text x="126" y="248" fill="url(#accent)" filter="url(#glow)" font-family="Arial, Helvetica, sans-serif" font-size="128" font-weight="900" letter-spacing="8">HELLO</text>
+  <text x="585" y="218" fill="#CBD5E1" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22">I build</text>
+  <text x="585" y="250" fill="#22D3EE" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22">software that works.</text>
+
+  <g clip-path="url(#lineClip)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="22" font-weight="600">
+    <text class="line one" x="130" y="322" fill="#22D3EE">&gt; Construyendo APIs, sistemas y experiencias web</text>
+    <text class="line two" x="130" y="322" fill="#38BDF8">&gt; Transformando ideas en software funcional</text>
+    <text class="line three" x="130" y="322" fill="#6EE7B7">&gt; Code. Build. Automate. Repeat.</text>
+  </g>
+  <rect class="cursor" x="108" y="299" width="10" height="26" rx="2" fill="#22D3EE"/>
+  <text x="1110" y="365" text-anchor="end" fill="#555E75" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14">Aglp-ds / Guatemala</text>
+</svg>

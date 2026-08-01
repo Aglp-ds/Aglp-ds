@@ -83,62 +83,51 @@ Desarrollo sistemas web, APIs y herramientas que transforman procesos complejos 
 
 ---
 
-## `> featured_projects --limit 2`
+## `> featured_projects --limit 3`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### ⚽ Quiniela 2026
+### 📁 Proyecto 1
 
-Plataforma de predicciones para administrar jornadas, partidos, resultados y clasificaciones.
+`ESPACIO RESERVADO`
 
-```text
-NestJS · Next.js · Prisma
-PostgreSQL · JWT · Railway
-```
-
-**Funciones principales**
-
-- Administración de 104 partidos
-- Predicciones organizadas por jornadas
-- Bloqueo automático de encuentros
-- Sistema de puntuaciones y clasificación
-- Autenticación y protección de rutas
+Proyecto en preparación.
 
 <a href="https://github.com/Aglp-ds">
-  <img src="https://img.shields.io/badge/Ver_proyecto-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Quiniela repository"/>
+  <img src="https://img.shields.io/badge/ABRIR_CARPETA-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Proyecto 1"/>
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" align="center" valign="top">
 
-### 📊 BD Influencers
+### 📁 Proyecto 2
 
-Sistema para importar, organizar, filtrar y consultar una base de datos de creadores digitales.
+`ESPACIO RESERVADO`
 
-```text
-NestJS · Next.js · Tailwind
-Prisma · PostgreSQL · Excel
-```
-
-**Funciones principales**
-
-- Importación masiva desde Excel
-- Más de 500 perfiles gestionados
-- Filtros y etiquetas avanzadas
-- Panel administrativo
-- Almacenamiento en PostgreSQL
+Proyecto en preparación.
 
 <a href="https://github.com/Aglp-ds">
-  <img src="https://img.shields.io/badge/Ver_proyecto-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Influencers database repository"/>
+  <img src="https://img.shields.io/badge/ABRIR_CARPETA-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Proyecto 2"/>
+</a>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 📁 Proyecto 3
+
+`ESPACIO RESERVADO`
+
+Proyecto en preparación.
+
+<a href="https://github.com/Aglp-ds">
+  <img src="https://img.shields.io/badge/ABRIR_CARPETA-22D3EE?style=for-the-badge&logo=github&logoColor=082F49" alt="Abrir Proyecto 3"/>
 </a>
 
 </td>
 </tr>
 </table>
-
-> Los botones apuntan temporalmente a tu perfil. Cuando los repositorios estén públicos, reemplaza cada enlace por la dirección exacta del proyecto.
 
 ---
 
@@ -149,14 +138,6 @@ Prisma · PostgreSQL · Excel
 ### Racha y contribuciones
 
 <img width="92%" src="https://streak-stats.demolab.com?user=Aglp-ds&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D&ring=06B6D4&fire=22D3EE&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="Contribuciones, racha actual y mejor racha de Angel"/>
-
-### Resumen de actividad
-
-<img width="92%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aglp-ds&theme=github_dark" alt="Resumen de repositorios, commits y contribuciones de Angel"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Aglp-ds&show_icons=true&hide_border=true&bg_color=050816&title_color=22D3EE&icon_color=06B6D4&text_color=D1D5DB&ring_color=0891B2&locale=es&include_all_commits=true" alt="Estadisticas generales de GitHub"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aglp-ds&layout=compact&hide_border=true&bg_color=050816&title_color=22D3EE&text_color=D1D5DB&langs_count=8&locale=es" alt="Lenguajes mas utilizados"/>
 
 <br/>
 
@@ -169,8 +150,6 @@ Prisma · PostgreSQL · Excel
 ## `> contribution_creature`
 
 <div align="center">
-
-### El axolote vigila cada contribución mientras la serpiente limpia el sistema.
 
 <img width="92%" src="https://raw.githubusercontent.com/Aglp-ds/Aglp-ds/gh-pages/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation"/>
 

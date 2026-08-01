@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="./assets/hello-terminal.svg" alt="Hello, soy Angel — banner animado de desarrollador"/>
+<img width="100%" src="./hello-terminal.svg" alt="Hello, soy Angel — banner animado de desarrollador"/>
 
 <br/>
 

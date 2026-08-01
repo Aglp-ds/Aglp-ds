@@ -83,13 +83,13 @@ Desarrollo sistemas web, APIs y herramientas que transforman procesos complejos 
 
 ---
 
-## `> featured_projects --limit 3`
+## `> featured_projects --limit 4`
 
-<table>
+<table width="100%" align="center">
 <tr>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
-### 📁 Proyecto 1
+### Proyecto 1
 
 `ESPACIO RESERVADO`
 
@@ -100,9 +100,9 @@ Proyecto en preparación.
 </a>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
-### 📁 Proyecto 2
+### Proyecto 2
 
 `ESPACIO RESERVADO`
 
@@ -113,9 +113,9 @@ Proyecto en preparación.
 </a>
 
 </td>
-<td width="33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
 
-### 📁 Proyecto 3
+### Proyecto 3
 
 `ESPACIO RESERVADO`
 
@@ -123,6 +123,19 @@ Proyecto en preparación.
 
 <a href="https://github.com/Aglp-ds">
   <img src="https://img.shields.io/badge/ABRIR_CARPETA-22D3EE?style=for-the-badge&logo=github&logoColor=082F49" alt="Abrir Proyecto 3"/>
+</a>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### Proyecto 4
+
+`ESPACIO RESERVADO`
+
+Proyecto en preparación.
+
+<a href="https://github.com/Aglp-ds">
+  <img src="https://img.shields.io/badge/ABRIR_CARPETA-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Abrir Proyecto 4"/>
 </a>
 
 </td>
